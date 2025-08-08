@@ -30,7 +30,7 @@
   }],
   "markup": {
     "in": "src/markup",
-    "out": "/",
+    "out": "/dist/",
     "options": {
       "site": {
         "title": "💩🌪️ Shitstorm",
